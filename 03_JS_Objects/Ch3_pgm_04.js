@@ -10,6 +10,8 @@ book = {
   
 };
 
+console.log(book);
+
 
 /* Further Adventures
  *
