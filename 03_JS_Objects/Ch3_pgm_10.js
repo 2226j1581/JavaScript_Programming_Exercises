@@ -12,6 +12,12 @@ player1.attempted = 1;
 player1.correct = 1;
 player1.score = 50;
 
+player1.name="Js";
+player1.attempted=2;
+player1.score=150;
+
+console.log(player1);
+
 
 
 /* Further Adventures
