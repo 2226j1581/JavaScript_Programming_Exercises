@@ -10,6 +10,13 @@ console.log("New score: " + score);
 
 console.log("Way to go!");
 
+var health=100;
+console.log("Your score was " + health);
+health=health+50;
+console.log("Your score was " + health);
+console.log("Congratulations");
+
+
 
 
 /* Further Adventures
