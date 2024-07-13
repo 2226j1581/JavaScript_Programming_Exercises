@@ -5,13 +5,17 @@ var book2;
 
 book1 = {
     title : "The Hobbit",
-    author : "J. R. R. Tolkien"
+    author : "J. R. R. Tolkien",
+	dateofrelease:"12-12-2004",
 };
 
 book2 = {
 	title : "Northern Lights",
-	author : "Philip Pullman"
+	author : "Philip Pullman",
+	country:"USA",
 };
+console.log(book1);
+console.log(book2);
 
 
 
