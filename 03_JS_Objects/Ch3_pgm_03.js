@@ -10,6 +10,12 @@ book = {
 
 console.log(book);
 
+var book2={
+     title:"Hobbit",
+    author:"J. R. R. Tolkien",
+};
+console.log(book2);
+
 
 
 /* Further Adventures
