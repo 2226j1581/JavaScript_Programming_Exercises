@@ -8,6 +8,13 @@ console.log(message);
 message = 'Congratulations! Your tweet has won a prize...';
 console.log(message);
 
+message2="Welcome To" + "JavaScript";
+console.log(message);
+
+
+message = "Congratulations!" + " Your tweet has" + " won a prize...";
+console.log(message);
+
 
 
 /* Further Adventures
